@@ -1,1 +1,1 @@
-# simple-spring
+# Simple spring-boot application
