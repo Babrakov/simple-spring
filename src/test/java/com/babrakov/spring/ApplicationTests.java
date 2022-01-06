@@ -1,4 +1,4 @@
-package com.b3rz3rk.spring;
+package com.babrakov.spring;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

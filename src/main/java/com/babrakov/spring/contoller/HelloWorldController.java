@@ -1,4 +1,4 @@
-package com.b3rz3rk.spring.contoller;
+package com.babrakov.spring.contoller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

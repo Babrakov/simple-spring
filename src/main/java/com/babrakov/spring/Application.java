@@ -1,4 +1,4 @@
-package com.b3rz3rk.spring;
+package com.babrakov.spring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
